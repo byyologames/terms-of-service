@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzrichtlinie</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Datenschutzrichtlinie</h1>
+
+    <h2>1. Einleitung</h2>
+    <p>Diese Datenschutzrichtlinie beschreibt, wie Waschbärenbau Discord Server ("wir", "uns" oder "unser") Informationen sammelt, verwendet und schützt, wenn Sie unseren Discord-Bot ("Bot") nutzen.</p>
+    <p>Durch die Nutzung unseres Bots stimmen Sie der Erfassung und Nutzung von Informationen gemäß dieser Richtlinie zu.</p>
+
+    <h2>2. Erfasste Informationen</h2>
+    <p>Wir sammeln verschiedene Arten von Informationen, um unseren Bot bereitzustellen und zu verbessern:</p>
+    <ul>
+        <li><strong>Benutzerinformationen:</strong> Benutzername, Benutzer-ID und Rollen innerhalb des Discord-Servers.</li>
+        <li><strong>Interaktionsdaten:</strong> Nachrichteninhalte, Reaktionen und Nutzungshäufigkeit von Befehlen.</li>
+        <li><strong>Externe Datenquellen:</strong> Informationen von Drittanbietern wie TikTok und Twitch, die für bestimmte Funktionen des Bots benötigt werden.</li>
+    </ul>
+
+    <h2>3. Verwendung der Informationen</h2>
+    <p>Wir verwenden die gesammelten Informationen, um:</p>
+    <ul>
+        <li>Die Funktionalität des Bots bereitzustellen und zu verbessern.</li>
+        <li>Auf Anfragen und Befehle zu reagieren.</li>
+        <li>Benutzerinteraktionen zu überwachen und zu analysieren, um die Benutzererfahrung zu verbessern.</li>
+        <li>Benachrichtigungen über neue Inhalte auf TikTok und Twitch zu senden.</li>
+    </ul>
+
+    <h2>4. Weitergabe der Informationen</h2>
+    <p>Wir geben Ihre persönlichen Daten nicht an Dritte weiter, außer:</p>
+    <ul>
+        <li>Wenn wir gesetzlich dazu verpflichtet sind.</li>
+        <li>Zum Schutz unserer Rechte und Sicherheit oder der Rechte und Sicherheit anderer.</li>
+        <li>Mit Ihrer ausdrücklichen Zustimmung.</li>
+    </ul>
+
+    <h2>5. Datensicherheit</h2>
+    <p>Wir setzen angemessene Sicherheitsmaßnahmen ein, um Ihre persönlichen Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Dennoch ist keine Methode der Übertragung über das Internet oder elektronische Speicherung 100% sicher, und wir können die absolute Sicherheit Ihrer Daten nicht garantieren.</p>
+
+    <h2>6. Änderungen an dieser Datenschutzrichtlinie</h2>
+    <p>Wir behalten uns das Recht vor, diese Datenschutzrichtlinie jederzeit zu aktualisieren. Änderungen werden auf dieser Seite veröffentlicht. Es liegt in Ihrer Verantwortung, diese Richtlinie regelmäßig zu überprüfen.</p>
+
+    <h2>7. Ihre Rechte</h2>
+    <p>Sie haben das Recht, auf Ihre persönlichen Daten zuzugreifen, deren Berichtigung oder Löschung zu verlangen und die Einschränkung der Verarbeitung zu beantragen. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte unter den unten angegebenen Kontaktinformationen.</p>
+
+    <h2>8. Kontakt</h2>
+    <p>Wenn Sie Fragen oder Bedenken zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter: byyologames0601 auf Discord</p>
+</body>
+</html>
